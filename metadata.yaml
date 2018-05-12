@@ -1,0 +1,30 @@
+_repo: Barnave_33734
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janin, Jules Gabriel
+    alias: Janin, J. (Jules)
+    birthdate: 1804
+    deathdate: 1874
+    gutenberg_agent_id: '4431'
+    url: http://www.gutenberg.org/2009/agents/4431
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Janin
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33734'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- 1789-1793'
+- !lcsh 'Barnave, Antoine, 1761-1793'
+- !lcc 'DC'
+title: Barnave
+url: http://www.gutenberg.org/ebooks/33734
